@@ -380,7 +380,7 @@ A: 由于权限限制，您无法直接触发主仓库的 Actions。请通过 Fo
 
 ## DartNode
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[![Powered by DartNode](docs/DartNode_AD.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ***
 
@@ -428,7 +428,6 @@ A: 由于权限限制，您无法直接触发主仓库的 Actions。请通过 Fo
 * https://github.com/Textualize/rich
 * https://github.com/omnilib/aiosqlite
 * https://github.com/Tinche/aiofiles
-* https://github.com/thewh1teagle/rookie
 * https://github.com/pyinstaller/pyinstaller
 * https://foss.heptapod.net/openpyxl/openpyxl
 * https://github.com/carpedm20/emoji/

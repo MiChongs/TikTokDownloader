@@ -385,7 +385,7 @@ repository to execute the build process
 
 ## DartNode
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[![Powered by DartNode](docs/DartNode_AD.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ***
 
@@ -432,7 +432,6 @@ repository to execute the build process
 * https://github.com/Textualize/rich
 * https://github.com/omnilib/aiosqlite
 * https://github.com/Tinche/aiofiles
-* https://github.com/thewh1teagle/rookie
 * https://github.com/pyinstaller/pyinstaller
 * https://foss.heptapod.net/openpyxl/openpyxl
 * https://github.com/carpedm20/emoji/
